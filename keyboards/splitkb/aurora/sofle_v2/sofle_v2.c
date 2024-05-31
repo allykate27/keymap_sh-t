@@ -301,11 +301,11 @@ bool encoder_update_kb(uint8_t index, bool clockwise) {
             tap_code(KC_VOLD);
         }
     } else if (index == 1) {
-        // Page up/Page down
+        // zoom in zoom out
         if (clockwise) {
-            tap_code(KC_PGDN);
+            tap_code(KC_MNXT);
         } else {
-            tap_code(KC_PGUP);
+            tap_code(KC_MPRV);
         }
     }
     return true;
