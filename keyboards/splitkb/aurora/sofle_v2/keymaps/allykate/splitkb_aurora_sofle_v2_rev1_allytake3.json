@@ -66,7 +66,7 @@
       "KC_MINS",
       "KC_LBRC",
       "KC_RBRC",
-      "LCTRL(LALT(KC_DEL))"
+      "LCTL(LALT(KC_DEL))"
     ],
     [
       "KC_TRNS",
