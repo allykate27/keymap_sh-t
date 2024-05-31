@@ -50,7 +50,7 @@
       "KC_V",
       "KC_B",
       "KC_MUTE",
-      "OSM(MOD_LCTL|MOD_LALT|MOD_LGUI)",
+      "KC_MPLY",
       "KC_N",
       "KC_M",
       "KC_COMM",
@@ -66,7 +66,7 @@
       "KC_MINS",
       "KC_LBRC",
       "KC_RBRC",
-      "OSM(MOD_LCTL|MOD_LSFT|MOD_LGUI)"
+      "LCTRL(LALT(KC_DEL))"
     ],
     [
       "KC_TRNS",
